@@ -1,0 +1,120 @@
+.App {
+    text-align: center;
+  }
+
+  /* For the Git-Hub link */
+  .git{
+    background: url('../Images/GitHub Logo.png');
+    background-size: 50px;
+    background-color: black;
+    background-position:center;
+    display: flex;
+    background-repeat:no-repeat ;
+}
+/* For the LinkedIn Link */
+.linkedIn{
+  background:url('../Images/LinkedIn Icon.png');
+  background-size: 50px;
+    background-color: black;
+    background-position:center;
+    background-repeat:no-repeat ;
+}
+
+
+/* For My Contact Info */
+.contact{
+  background:url('../Images/Contact Image.png');
+  background-size: 50px;
+    background-color: black;
+    background-position:center;
+    background-repeat:no-repeat ;
+}
+ 
+
+   .Buttons{
+       height: 75px;
+    width: 250px;
+    font-size: 30px;
+  color: #1b1b1b;
+  background-color: rgb(107, 99, 99);
+  border-radius: 8px;
+  border-color: rgb(145, 145, 148);
+  opacity: .5;
+  transition-duration: 0.4s;
+  
+  }
+  
+  .Buttons:hover{
+    background-color: rgb(78, 79, 82);
+    color: rgb(243, 235, 235);
+    
+  }
+
+  /* Bio pic settings */
+  .Front-pic {
+    height: 40vmin;
+    pointer-events: none;
+    
+    border-radius: 8px;
+  }
+  /* This is for my Background */
+  .App-header {
+    background: url('../Images/IMG_7614 2.jpg');
+    min-height: 100vh;
+    background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  background-repeat: no-repeat;
+      
+  display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  
+  }
+  
+  
+  /* .Website-Links{
+    color:rgb(255, 230, 0);
+    background-color: rgb(0, 0, 0);
+    border-radius: 8px;
+    align-content: stretch;
+  } */
+  
+  ul{
+    list-style-type: none;
+    margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  
+  }
+  
+  li{
+    float: left;
+    opacity: .7;
+  }
+
+  li {
+    float: left;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+/* For my name on the Nav Bar */
+  .name{
+     color: rgb(190, 188, 20);
+  }
