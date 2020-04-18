@@ -1,0 +1,51 @@
+ html {
+    scroll-behavior: smooth;
+  }
+
+ 
+  
+
+  
+  section {
+   
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+     
+  
+  }
+
+  .bioPage{
+    background: url('../Images/IMG_4987.jpg');
+    min-height: 100vh;
+    background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  background-repeat: no-repeat;
+      
+  display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  
+  }
+
+  h2{
+    color:rgb(120, 44, 57);
+  }
+  p{
+    font-weight: 700px;
+    color:rgb(154, 154, 157);
+    background-color: black;
+    border-radius: 30px;
+    opacity: .8 ;
+  }
+  .Front-pic {
+    height: 50vmin;
+    pointer-events: none;
+    
+    border-radius: 8px;
+  }
