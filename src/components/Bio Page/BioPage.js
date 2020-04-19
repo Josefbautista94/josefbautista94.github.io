@@ -26,7 +26,9 @@ I am also always open to learn new things and like to take on new challenges to 
 as I can for my team.</p>
   </div>
   
-   </body> </section>
+   </body> 
+   
+   </section>
   
 </div>
     )
