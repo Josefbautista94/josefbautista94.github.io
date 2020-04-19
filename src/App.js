@@ -14,11 +14,12 @@ const App = () => {
     <Router>
     <div className="App">
       <Nav/>
-      <Route path = "/Frontpage" component = {Frontpage}/>
-      <Route path= "/BioPage" component={BioPage}/>
+      <Switch>
+      <Route path = "/Front-Page" exact component = {Frontpage}/>
+      <Route path= "/Bio-Page" component={BioPage}/>
       <Route path= "/Languages" component={Languages}/>
       <Route path= "/Contact" component={Contact}/>
-      
+      </Switch>
     </div>
     </Router>
   );
