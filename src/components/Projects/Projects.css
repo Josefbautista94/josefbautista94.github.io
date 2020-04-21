@@ -1,0 +1,96 @@
+.scrolling-box {
+    background-color: #eaeaea;
+    
+    display: block;
+    width: 1028px;
+    height: 1000px;
+    padding: 0em;
+    overflow-y: scroll;
+    text-align: center;
+    
+    
+  }
+
+  .LanguageBody{
+    background: url('../Images/6405318ac146473a95bfbdcec2b32943.gif');
+    min-height: 100vh;
+    background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; 
+  background-repeat: no-repeat;
+      
+  display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+}
+
+  section {
+   
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .js{
+    height: 15vmin;
+    pointer-events: none;
+  }
+  .react{
+    height: 15vmin;
+    pointer-events: none;
+    background-color:rgb(100, 212,250);
+    border-radius:10px;
+  }
+
+  .html{
+    height: 15vmin;
+    pointer-events: none;
+  }
+
+  .css{
+    height: 15vmin;
+    pointer-events: none;
+  }
+
+  .java{
+    height: 15vmin;
+    pointer-events: none;
+  }
+
+  .node{
+    height: 15vmin;
+    pointer-events: none;
+  }
+
+  .visual{
+    height: 15vmin;
+    pointer-events: none;
+    background-color:rgb(94, 28,111);
+    border-radius:10px;
+  }
+  
+
+  .python{
+    height: 15vmin;
+    pointer-events: none;
+  }
+  .git1{
+    height: 15vmin;
+    pointer-events: none;
+  }
+
+  .github{
+    height: 15vmin;
+    pointer-events: none;
+    background-color: blanchedalmond;
+    border-radius:6px;
+  }
+
+ .h1L{
+     color: rgb(255, 255, 255);
+     text-decoration: underline;
+ }
