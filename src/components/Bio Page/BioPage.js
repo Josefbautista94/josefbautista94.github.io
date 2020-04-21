@@ -27,7 +27,7 @@ render(){
       programming languages that I would like to use for my programming career. I am also always open to learn new things and like to take on
      new challenges to improve on myself in any way i can so I can contribute as much as I can for my team.
       </p>
-      <p>   Aside from that on my spare time I like to travel, working out by going to the gym and going on jogs around the city.
+      <p>Aside from that on my spare time I like to travel, working out by going to the gym and going on jogs around the city.
        Kind of a fitness freak since I love eating A LOT, really love food, I enjoy going upstate New York for hikes, and also enjoy 
        skateboarding with my friends in the city and socializing with new people whenever I can.</p>
       </div> 
