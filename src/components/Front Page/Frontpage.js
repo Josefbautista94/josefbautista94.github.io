@@ -21,7 +21,7 @@ class Frontpage extends Component{
     
     
    <header className="Main-content">
-   <h1> Welcome To My Own Personal Website </h1>
+   <h1> Welcome To My Personal Website </h1>
 <Link to="/Bio-Page">
     <button className ="Buttons"> Bio</button>
     </Link>
