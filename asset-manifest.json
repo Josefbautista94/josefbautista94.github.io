@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/master/static/css/main.a2be7963.chunk.css",
-    "main.js": "/master/static/js/main.43fbe879.chunk.js",
-    "main.js.map": "/master/static/js/main.43fbe879.chunk.js.map",
-    "runtime-main.js": "/master/static/js/runtime-main.c107e595.js",
-    "runtime-main.js.map": "/master/static/js/runtime-main.c107e595.js.map",
-    "static/js/2.15e37ec1.chunk.js": "/master/static/js/2.15e37ec1.chunk.js",
-    "static/js/2.15e37ec1.chunk.js.map": "/master/static/js/2.15e37ec1.chunk.js.map",
-    "index.html": "/master/index.html",
-    "precache-manifest.c7b60e1b5571906e82114e7790f35b9c.js": "/master/precache-manifest.c7b60e1b5571906e82114e7790f35b9c.js",
-    "service-worker.js": "/master/service-worker.js",
-    "static/css/main.a2be7963.chunk.css.map": "/master/static/css/main.a2be7963.chunk.css.map",
-    "static/js/2.15e37ec1.chunk.js.LICENSE.txt": "/master/static/js/2.15e37ec1.chunk.js.LICENSE.txt",
-    "static/media/Contact.css": "/master/static/media/58485698e0bb315b0f7675a8.2c691434.png",
-    "static/media/Projects.css": "/master/static/media/6405318ac146473a95bfbdcec2b32943.41583ce9.gif",
-    "static/media/Copy of Jose Bautista f Resume 2019.docx 2.pdf": "/master/static/media/Copy of Jose Bautista f Resume 2019.docx 2.2a98142a.pdf",
-    "static/media/BioPage.css": "/master/static/media/IMG_4987.015b7874.jpg",
-    "static/media/Frontpage.css": "/master/static/media/IMG_7614 2.80c1da79.jpg",
-    "static/media/Nav.css": "/master/static/media/home-transparent-white.85726374.png",
-    "static/media/joseBautista.jpeg": "/master/static/media/joseBautista.16286484.jpeg"
+    "main.css": "/josefbautista94.github.io/static/css/main.5877d516.chunk.css",
+    "main.js": "/josefbautista94.github.io/static/js/main.2aeb5e44.chunk.js",
+    "main.js.map": "/josefbautista94.github.io/static/js/main.2aeb5e44.chunk.js.map",
+    "runtime-main.js": "/josefbautista94.github.io/static/js/runtime-main.2f40ba56.js",
+    "runtime-main.js.map": "/josefbautista94.github.io/static/js/runtime-main.2f40ba56.js.map",
+    "static/js/2.15e37ec1.chunk.js": "/josefbautista94.github.io/static/js/2.15e37ec1.chunk.js",
+    "static/js/2.15e37ec1.chunk.js.map": "/josefbautista94.github.io/static/js/2.15e37ec1.chunk.js.map",
+    "index.html": "/josefbautista94.github.io/index.html",
+    "precache-manifest.8863dc4f828a49fd852e326c68881346.js": "/josefbautista94.github.io/precache-manifest.8863dc4f828a49fd852e326c68881346.js",
+    "service-worker.js": "/josefbautista94.github.io/service-worker.js",
+    "static/css/main.5877d516.chunk.css.map": "/josefbautista94.github.io/static/css/main.5877d516.chunk.css.map",
+    "static/js/2.15e37ec1.chunk.js.LICENSE.txt": "/josefbautista94.github.io/static/js/2.15e37ec1.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/josefbautista94.github.io/static/media/58485698e0bb315b0f7675a8.2c691434.png",
+    "static/media/Projects.css": "/josefbautista94.github.io/static/media/6405318ac146473a95bfbdcec2b32943.41583ce9.gif",
+    "static/media/Copy of Jose Bautista f Resume 2019.docx 2.pdf": "/josefbautista94.github.io/static/media/Copy of Jose Bautista f Resume 2019.docx 2.2a98142a.pdf",
+    "static/media/BioPage.css": "/josefbautista94.github.io/static/media/IMG_4987.015b7874.jpg",
+    "static/media/Frontpage.css": "/josefbautista94.github.io/static/media/IMG_7614 2.80c1da79.jpg",
+    "static/media/Nav.css": "/josefbautista94.github.io/static/media/home-transparent-white.85726374.png",
+    "static/media/joseBautista.jpeg": "/josefbautista94.github.io/static/media/joseBautista.16286484.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c107e595.js",
+    "static/js/runtime-main.2f40ba56.js",
     "static/js/2.15e37ec1.chunk.js",
-    "static/css/main.a2be7963.chunk.css",
-    "static/js/main.43fbe879.chunk.js"
+    "static/css/main.5877d516.chunk.css",
+    "static/js/main.2aeb5e44.chunk.js"
   ]
 }
