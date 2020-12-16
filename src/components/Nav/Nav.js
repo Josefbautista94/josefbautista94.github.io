@@ -21,7 +21,7 @@ class Nav extends Component{
     
 
      
-    <li className ="linkedIn"> <a href= "https://www.linkedin.com/in/jose-bautista-271b98148/" target = "_blank" rel="noopener noreferrer" >Check Out My LinkedIn!  </a></li>
+    <li className ="linkedIn"> <a href= "https://www.linkedin.com/in/josefbautista94/" target = "_blank" rel="noopener noreferrer" >Check Out My LinkedIn!  </a></li>
     
 
     <Link to ="/Contact">
