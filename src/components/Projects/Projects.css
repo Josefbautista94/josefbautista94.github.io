@@ -1,96 +1,109 @@
 .scrolling-box {
-    background-color: #eaeaea;
-    
-    display: block;
-    width: 1028px;
-    height: 1000px;
-    padding: 0em;
-    overflow-y: scroll;
-    text-align: center;
-    
-    
-  }
+	background-color: #eaeaea;
 
-  .LanguageBody{
-    background: url('../Images/6405318ac146473a95bfbdcec2b32943.gif');
-    min-height: 100vh;
-    background-position: center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover; 
-  background-repeat: no-repeat;
-      
-  display:flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
+	display: block;
+	width: 1028px;
+	height: 1000px;
+	padding: 0em;
+	overflow-y: scroll;
+	text-align: center;
 }
 
-  section {
-   
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-  }
+.LanguageBody {
+	background: url('../Images/6405318ac146473a95bfbdcec2b32943.gif');
+	min-height: 100vh;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
 
-  .js{
-    height: 15vmin;
-    pointer-events: none;
-  }
-  .react{
-    height: 15vmin;
-    pointer-events: none;
-    background-color:rgb(100, 212,250);
-    border-radius:10px;
-  }
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+}
 
-  .html{
-    height: 15vmin;
-    pointer-events: none;
-  }
+section {
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
 
-  .css{
-    height: 15vmin;
-    pointer-events: none;
-  }
+.js {
+	height: 15vmin;
+	pointer-events: none;
+}
+.react {
+	height: 15vmin;
+	pointer-events: none;
+	background-color: rgb(100, 212, 250);
+	border-radius: 10px;
+}
 
-  .java{
-    height: 15vmin;
-    pointer-events: none;
-  }
+.html {
+	height: 15vmin;
+	pointer-events: none;
+}
 
-  .node{
-    height: 15vmin;
-    pointer-events: none;
-  }
+.css {
+	height: 15vmin;
+	pointer-events: none;
+}
 
-  .visual{
-    height: 15vmin;
-    pointer-events: none;
-    background-color:rgb(94, 28,111);
-    border-radius:10px;
-  }
-  
+.java {
+	height: 15vmin;
+	pointer-events: none;
+}
 
-  .python{
-    height: 15vmin;
-    pointer-events: none;
-  }
-  .git1{
-    height: 15vmin;
-    pointer-events: none;
-  }
+.node {
+	height: 15vmin;
+	pointer-events: none;
+}
 
-  .github{
-    height: 15vmin;
-    pointer-events: none;
-    background-color: blanchedalmond;
-    border-radius:6px;
-  }
+.visual {
+	height: 15vmin;
+	pointer-events: none;
+	background-color: rgb(94, 28, 111);
+	border-radius: 10px;
+}
 
- .h1L{
-     color: rgb(255, 255, 255);
-     text-decoration: underline;
- }
+.python {
+	height: 15vmin;
+	pointer-events: none;
+}
+.git1 {
+	height: 15vmin;
+	pointer-events: none;
+}
+
+.github {
+	height: 15vmin;
+	pointer-events: none;
+	background-color: blanchedalmond;
+	border-radius: 6px;
+}
+
+.h1L {
+	color: rgb(255, 255, 255);
+	text-decoration: underline;
+}
+
+.card {
+	width: 100%;
+	height: 200px;
+	background: url("../Images/Airport.png");
+	color: #fff;
+	font-size: 30px;
+	margin: 0 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background-size: 350px;
+	background-color: black;
+	background-position: center;
+	background-repeat: no-repeat;
+}
