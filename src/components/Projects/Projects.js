@@ -3,6 +3,7 @@ import './Projects.css'
 
 class Languages extends Component{
 
+    breakPoints = [{ width: 500, itemsToShow: 1 }, { width: 1000, itemsToShow: 2 }, { width: 1500, itemsToShow: 3 }, { width: 2000, itemsToShow: 4}]
 
     render(){
         return(
@@ -52,14 +53,14 @@ class Languages extends Component{
 </svg>
 
 
-<h1 className ="h1L"> My Projects</h1>
+                        <h1 className="h1L"> My Projects</h1>
+                        
+                        
 </div>
 
 
           </header>
-         <body>
-             
-         </body>
+         
 
           </div>   
         )
