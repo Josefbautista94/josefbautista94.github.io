@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Nav.css'
 import {Link} from 'react-router-dom';
-import Pdf from '../Bio Page/JoseFBautistaResume2021.pdf'
+import Pdf from '../Bio Page/Jose Bautista Resume.pdf'
 class Nav extends Component{
 
 
