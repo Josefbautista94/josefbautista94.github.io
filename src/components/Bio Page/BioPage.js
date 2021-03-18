@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from '../Images/joseBautista.jpeg';
 import '../Bio Page/BioPage.css';
-import Pdf from '../Bio Page/Jose Bautista Resume.pdf'
+import Pdf from '../Bio Page/JoseBautista.pdf'
 class BioPage extends Component{
 
 
