@@ -1,28 +1,20 @@
 import React, { Component } from 'react';
 import './Projects.css'
-import Carousel from 'react-elastic-carousel';
-import image1 from '../Images/Airport.png'
+
+
 class Projects extends Component{
-    state = {
-        items: [
-            { id: 1, title: 'item #1'},
-            { id: 2, title: 'item #2' },
-            { id: 3, title: 'item #3' },
-            { id: 4, title: 'item #4' },
-            { id: 5, title: 'item #5' }
-        ]
-    }
+   
     render() {
-        const { items } = this.state;
+        
         return(
          <div className = "LanguageBody">
    
                 <header >
+                  
                     <h1 className="h1L"> My Projects</h1>
 
-                    {/* <Carousel>
-                        {items.map(item => <div key={item.id}>{item.title}</div>)}
-                    </Carousel> */}
+                    
+
                     <h1 className="h1L" >Programming Languages And Programming Tools That I Use</h1>
          <div>
          <svg className = "js" viewBox="0 0 128 128">

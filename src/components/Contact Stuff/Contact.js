@@ -16,9 +16,9 @@ class Contact extends Component{
 <h3>Click The Mail Icon To Shoot Me An E-Mail!</h3>
 {/* <img src={logo} className="Email-pic" alt="logo" /> */}
 
-<a class="mailto" href="mailto:JoseFBautista94@gmail.com"></a>
+<a class="mailto" href="mailto:JoseF.Bautista22@gmail.com"></a>
 
-<h1>JoseFBautista94@gmail.com</h1>
+<h1>JoseF.Bautista22@gmail.com</h1>
 </body>
 
 
