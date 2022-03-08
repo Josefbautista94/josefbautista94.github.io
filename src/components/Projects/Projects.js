@@ -14,18 +14,35 @@ class Projects extends Component{
                   
                     <h1 className="h1L"> My Projects</h1>
 
-                    
-                    <div>
-                        
-                        <a href= "https://weather-zeta-two.vercel.app/">
-                            <img src={weather} className='weather' />
-                        </a>
+                    <div className='container2'>
                         <a href=" https://coolchatapp-7488f.web.app/">
-                        <img src={chatApp} className='chatApp'/>
+                            <img src={chatApp} className='chatApp' />
+                            <div className='mover'>
+                                <div class="text">Messaging App</div>
+                            </div>
+
                         </a>
+                    </div>
+                    <div >
+                        <div className='container1'>
+                        <a href= "https://weather-zeta-two.vercel.app/">
+                                <img src={weather} className='image' />
+                                <div className='overlay'>
+                                    <div class="text">Weather App</div>
+                                </div>
+                                
+                        </a>
+                        </div>
+                       
+                        <div className='container1'>
                         <a href='https://airexp.herokuapp.com/'>
-                            <img src={airEx} className='airEx' />
-                        </a>
+                                <img src={airEx} className='image' />
+                                <div className='overlay'>
+                                    <div class="text">Air Express App</div>
+                                </div>
+                            </a>
+                        </div>
+                        
 </div>
                     <h1 className="h1L" >Programming Languages And Programming Tools That I Use</h1>
          <div>
