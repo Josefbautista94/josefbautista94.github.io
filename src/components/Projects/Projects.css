@@ -90,3 +90,27 @@ section {
 	color: rgb(255, 255, 255);
 	text-decoration: underline;
 }
+
+.airEx {
+	border: 5px solid rgb(255, 255, 255);
+	border-radius: 12px;
+	padding: 1px;
+	width: 600px;
+	margin: 0 50px 0 0;
+}
+
+.chatApp {
+	border: 5px solid rgb(255, 255, 255);
+	border-radius: 12px;
+	padding: 1px;
+	width: 300px;
+	margin: 0 50px 0 0;
+}
+
+.weather {
+	border: 5px solid rgb(255, 255, 255);
+	border-radius: 12px;
+	padding: 1px;
+	width: 600px;
+	margin: 0 50px 0 0;
+}

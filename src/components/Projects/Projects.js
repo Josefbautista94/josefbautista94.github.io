@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import './Projects.css'
-
-
+import airEx from '../Images/Airport.png'
+import chatApp from '../Images/chatapp.png'
+import weather from '../Images/weather.png'
 class Projects extends Component{
    
     render() {
@@ -14,7 +15,17 @@ class Projects extends Component{
                     <h1 className="h1L"> My Projects</h1>
 
                     
-
+                    <div>
+                        <a href= "https://weather-zeta-two.vercel.app/">
+                            <img src={weather} className='weather' />
+                        </a>
+                        <a href=" https://coolchatapp-7488f.web.app/">
+                        <img src={chatApp} className='chatApp'/>
+                        </a>
+                        <a href='https://airexp.herokuapp.com/'>
+                            <img src={airEx} className='airEx' />
+                        </a>
+</div>
                     <h1 className="h1L" >Programming Languages And Programming Tools That I Use</h1>
          <div>
          <svg className = "js" viewBox="0 0 128 128">
