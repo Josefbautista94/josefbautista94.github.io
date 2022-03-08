@@ -16,6 +16,7 @@ class Projects extends Component{
 
                     
                     <div>
+                        
                         <a href= "https://weather-zeta-two.vercel.app/">
                             <img src={weather} className='weather' />
                         </a>

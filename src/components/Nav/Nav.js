@@ -31,8 +31,11 @@ class Nav extends Component{
 
     <li className = "resume"> <a href = {Pdf} target = "_blank" target = "_blank" rel="noopener noreferrer" >Resume</a></li>
 
-
-    <li> <a className ="name">Jose F. Bautista </a></li>
+       
+                    <li> <a className="name">Jose F. Bautista </a></li>
+                    
+                    <li className='codeWars' > <img src="https://www.codewars.com/users/Josefbautista94/badges/large" />
+</li>
     </ul>
          </div>   
         )
