@@ -1,0 +1,62 @@
+html {
+	scroll-behavior: smooth;
+}
+
+section {
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+
+.contactPage {
+	background: rgb(0, 0, 0);
+	min-height: 100vh;
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+}
+
+h3 {
+	color: rgb(252, 252, 252);
+}
+
+/* .Email-pic{
+    position: relative; 
+    top: -10px;
+  } */
+.mailto {
+	background: url('../Images/58485698e0bb315b0f7675a8.png');
+	position: relative;
+	top: -10px;
+	display: block;
+	width: 380px;
+	height: 100px;
+	display: block;
+	height: 250px;
+	font-size: 30px;
+	color: #1b1b1b;
+	background-color: rgb(0, 0, 0);
+	border-radius: 10px;
+	opacity: .5;
+	transition-duration: 0.4s;
+	outline: none;
+	padding: 10px;
+	font-weight: bold;
+	text-align: center;
+
+	color: rgb(240, 236, 236);
+}
+
+.mailto:hover {
+	color: rgb(255, 255, 255);
+	opacity: .9;
+}
